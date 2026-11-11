@@ -28,6 +28,8 @@ docker --version
 
 Create a Maven project named `SeleniumLocalWebTest` with:
 
+here you have use maven-archtype-quickstart
+
 | Field | Value |
 |---|---|
 | Group Id | `com.example` |
